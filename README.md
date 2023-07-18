@@ -1,7 +1,7 @@
 # AB_Testing
 
 
-<img alt="A/B Testing" src="ab-testing-banner.png"/>
+<img alt="A/B Testing" src="ab-testing.png"/>
 
 # A/B Testing Examples
 
