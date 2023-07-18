@@ -5,7 +5,7 @@
 
 # A/B Testing Examples
 
-This repo contains the notebook [AB_Testing.ipynb](AB_Testing.ipynb) where you
+This repo contains the notebook [ab-testing.ipynb](ab-testing.ipynb) where you
 can find different worked examples of [A/B
 Testing](https://en.wikipedia.org/wiki/A/B_testing).
 
